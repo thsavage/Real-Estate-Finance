@@ -3,4 +3,4 @@ This repository contains supplemental materials for the **NYU Schack Institute o
 
 The course Jupyter notebook can be rendered at this [link](https://nbviewer.org/github/thsavage/Real-Estate-Finance/blob/main/Commercial%20Real%20Estate%20Finance%20Notebook.ipynb).
 
-The Jupyter notebook of the CAPM examples can be rendered at the [link](https://nbviewer.org/github/thsavage/Real-Estate-Finance/blob/main/CAPM%20Example.ipynb).
+The Jupyter notebook of the CAPM examples can be rendered at this [link](https://nbviewer.org/github/thsavage/Real-Estate-Finance/blob/main/CAPM%20Example.ipynb).
